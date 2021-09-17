@@ -1,0 +1,19 @@
+.jumbotron {
+    padding-top: 6rem;
+}
+
+.my-active {
+    color: #FFC947 !important;
+}
+
+.my-bg-primary {
+    background-color: #0A1931;
+}
+
+.my-text-primary {
+    color: #FFC947 !important;
+}
+
+.my-btn-primary {
+    background-color: #0a1931;
+}
